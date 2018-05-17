@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE_P380517-7994.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\P38Pawn.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\P38Rocket.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\UE_P380517.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\TP_ThirdPersonCharacter.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\TP_ThirdPersonGameMode.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\P38Pawn.gen.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\P38Rocket.gen.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\TP_ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\TP_ThirdPersonGameMode.gen.cpp.obj"
+"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\UE_P380517.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE_P380517\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\skilltreelab\Desktop\Unreal\UE_P380517\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UE_P380517-7994.lib"
