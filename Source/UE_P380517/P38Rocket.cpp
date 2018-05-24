@@ -80,9 +80,9 @@ void AP38Rocket::Timer()
 }
 
 void AP38Rocket::BeginOverlap(UPrimitiveComponent * OverlappedComponent, AActor * OtherActor, UPrimitiveComponent * OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult & SweepResult)
-{
+{/*
 	if (Cast<APawn>(OtherActor) == nullptr)
-	{
+	{*/
 		//UGameplayStatics::SpawnEmitterAtLocation();
 		//UGameplayStatics::SpawnSoundAtLocation()
 		if (Cast<APawn>(OtherActor) == nullptr)
@@ -94,5 +94,5 @@ void AP38Rocket::BeginOverlap(UPrimitiveComponent * OverlappedComponent, AActor 
 
 			Destroy();
 		}
-	}
+	/*}*/
 }
